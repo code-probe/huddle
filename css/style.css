@@ -1,8 +1,8 @@
 :root {
   /* COLOR */
 
-  --Violet: hsl(257, 40%, 49%);
-  --Soft-Magenta: hsl(300, 69%, 71%);
+  --Violet: hsl(257, 75%, 60%);
+  --Soft-Magenta: hsl(300, 42%, 57%);
 
   /* FONT FAMILY*/
 
@@ -89,7 +89,7 @@
   font-size: 16px;
 }
 .btn:hover {
-  color: #fff;
+  color: rgb(240, 233, 237);
   background: var(--Soft-Magenta);
 }
 
