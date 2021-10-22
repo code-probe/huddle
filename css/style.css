@@ -81,8 +81,8 @@
 .btn {
   text-decoration: none;
   font-family: var(--font-body);
-  color: var(--Violet);
-  background: #fff;
+  color: white;
+  background: var(--Violet);
   transition: 0.3s;
   padding: 15px 55px;
   border-radius: 35px;
